@@ -21,5 +21,5 @@ This project allows you to convert a video into ASCII art and create ASCII video
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/video-to-ascii.git
+   git clone https://github.com/dimitric/video-to-ascii.git
    cd video-to-ascii
