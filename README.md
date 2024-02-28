@@ -2,6 +2,8 @@
 
 Convert your video into ASCII art and create ASCII videos.
 
+![Sample Image](image.jpg)
+
 ![Sample GIF](/sample.gif)
 
 
