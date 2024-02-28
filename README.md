@@ -2,7 +2,8 @@
 
 Convert your video into ASCII art and create ASCII videos.
 
-[![Watch the video](/image.jpg)](/video.mp4)
+![Sample GIF](/sample.gif)
+
 
 ## Introduction
 This project allows you to convert a video into ASCII art and create ASCII videos. It consists of two main components:
