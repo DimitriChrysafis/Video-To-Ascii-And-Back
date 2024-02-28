@@ -6,6 +6,7 @@ Convert your video into ASCII art and create ASCII videos.
 This project allows you to convert a video into ASCII art and create ASCII videos. It consists of two main components:
 1. **video-to-ascii:** Converts a video to a sequence of ASCII frames and saves them in the "asciitxt" folder.
 2. **ascii-to-video:** Compiles the ASCII frames back into an ASCII video and saves it as an output video file.
+3. **asciiToVid.py** converts the ascii folder to a cool video
 
 ## Features
 - Video to ASCII conversion using OpenCV and Pillow.
