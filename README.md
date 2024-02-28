@@ -2,6 +2,8 @@
 
 Convert your video into ASCII art and create ASCII videos.
 
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](/video.mp4)
+
 ## Introduction
 This project allows you to convert a video into ASCII art and create ASCII videos. It consists of two main components:
 1. **video-to-ascii:** Converts a video to a sequence of ASCII frames and saves them in the "asciitxt" folder.
